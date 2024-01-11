@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mehul Kamaliya.
+- 👋 Hi, I’m Mehul.
 - 👀 I’m interested in Developing Business Development Application of the Salesforce Platform Base.
 - 🌱 I’m currently learning Apex,Lighting Web Components and Integrations.  
 - 📫 To reach me mehul.sdfc@gmail.com
